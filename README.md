@@ -57,6 +57,9 @@ I'm a highly motivated and adaptable Information Technology student currently pu
 
 <br />
 
+### My Background
+I'm Siddhant Chavan, a tech enthusiast from Mumbai, India. During my IT studies, I got hooked on analyzing data and creating visualizations at the University of Mumbai. As a web Analyst intern, I learned the ropes of data mining and database management. Surprisingly, quarantine led me to discover a knack for music composition and rapping, earning me recognition in competitions. Now, I've set my sights on pursuing a Master's degree in Boston, USA, eager to take on new challenges and showcase my skills. Join me on this exciting journey as I explore the fascinating world of technology and creativity.
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
