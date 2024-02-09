@@ -1,4 +1,4 @@
-# 🏄‍♂️ Siddhant Chavan <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto/v1542727969/content-items/002/617/298/trabajando-original.gif?1542727969" alt="Image" width="30">
+# 🏄‍♂️ Siddhant Chavan <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto/v1542727969/content-items/002/617/298/trabajando-original.gif?1542727969" alt="Image" width="80" style="float:right;">
 **`Insight Artisan (Passionate Data Story Crafter)`**
 
 
