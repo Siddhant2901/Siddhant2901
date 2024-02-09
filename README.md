@@ -1,6 +1,6 @@
 # 🏄‍♂️ Siddhant Chavan - Insight Artisan (Data Story Crafter)
 <p align="center">
-  <img src="https://github.com/Siddhant2901/Siddhant2901/assets/75361891/ba7ec7df-474d-4721-b7d8-d112357757e9" alt="1_VMmvImch6VU5pc2VktY1uw" width="80%" height="80%">
+  <img src="https://github.com/Siddhant2901/Siddhant2901/assets/75361891/ba7ec7df-474d-4721-b7d8-d112357757e9" alt="1_VMmvImch6VU5pc2VktY1uw" width="80%" height="50%">
 </p>
 
   
