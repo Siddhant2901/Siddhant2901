@@ -1,4 +1,4 @@
-# 🏄‍♂️ Siddhant Chavan <img src="https://www.google.com/search?q=a%20person%20sitting%20in%20a%20gaming%20room%20and%20on%20his%20computer%20there%20is%20data%20animated%20gif&tbm=isch&tbs=rimg:Cf8H8F4Z-T4kYeVCuvmZpAxYsgITCgIIABAAOgQIARAAQAFVn5AOP8ACANgCAOACAA&hl=en&sa=X&ved=0CBoQuIIBahcKEwioutnnnp2EAxUAAAAAHQAAAAAQEw&biw=1519&bih=695#imgrc=96TpVaXN8R9LIM" alt="Image" width="30">
+# 🏄‍♂️ Siddhant Chavan <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto/v1542727969/content-items/002/617/298/trabajando-original.gif?1542727969" alt="Image" width="30">
 **`Insight Artisan (Passionate Data Story Crafter)`**
 
 
