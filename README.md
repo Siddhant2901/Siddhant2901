@@ -58,6 +58,6 @@ I'm a highly motivated and adaptable Information Technology student currently pu
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant2901&show_icons=true&locale=en&layout=compact" alt="siddhant2901" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant2901&show_icons=true&locale=en&layout=compact" alt="siddhant2901" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddhant2901&show_icons=true&locale=en" alt="siddhant2901" /></p>
