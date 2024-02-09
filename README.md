@@ -57,3 +57,9 @@ I'm a highly motivated and adaptable Information Technology student currently pu
 
 <br />
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
