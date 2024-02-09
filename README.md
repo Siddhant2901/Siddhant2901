@@ -6,7 +6,7 @@
   
 
 
-I'm a highly motivated and adaptable Information Technology student currently pursuing a Master's Degree in Data Analytics.My strong foundation in data analysis and web development, has equipped me with the skills needed to extract valuable insights from complex datasets and contribute to informed decision-making processes for businesses.  All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm a highly motivated and adaptable Information Technology student currently pursuing a Master's Degree in Data Analytics. My strong foundation in data analysis and web development, has equipped me with the skills needed to extract valuable insights from complex datasets and contribute to informed decision-making processes for businesses.  All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
    <p align="left">
       <a href="https://github.com/Siddhant2901?tab=followers">
