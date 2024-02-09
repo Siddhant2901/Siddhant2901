@@ -1,5 +1,7 @@
-# 🏄‍♂️ Siddhant Chavan 
-**`Insight Artisan (Passionate Data Story Crafter)`**
+# 🏄‍♂️ Siddhant Chavan - Insight Artisan (Passionate Data Story Crafter)`*
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvibhas1892.medium.com%2Fhow-to-use-web-components-in-angular-applications-f82d430712eb&psig=AOvVaw2RAbXLKfdPEQ1i7zwH3Iud&ust=1707533196654000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDYgv6enYQDFQAAAAAdAAAAABBC" alt="Image width="500" height="300">
+</p>
 <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto/v1542727969/content-items/002/617/298/trabajando-original.gif?1542727969" alt="Image" width="200" style="float:right;">
 
 I'm a highly motivated and adaptable Information Technology student currently pursuing a Master's Degree in Data Analytics.My strong foundation in data analysis and web development, has equipped me with the skills needed to extract valuable insights from complex datasets and contribute to informed decision-making processes for businesses.  All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
