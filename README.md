@@ -1,6 +1,6 @@
-# 🏄‍♂️ Siddhant Chavan
-
+# 🏄‍♂️ Siddhant Chavan <img src="https://www.google.com/search?q=a%20person%20sitting%20in%20a%20gaming%20room%20and%20on%20his%20computer%20there%20is%20data%20animated%20gif&tbm=isch&tbs=rimg:Cf8H8F4Z-T4kYeVCuvmZpAxYsgITCgIIABAAOgQIARAAQAFVn5AOP8ACANgCAOACAA&hl=en&sa=X&ved=0CBoQuIIBahcKEwioutnnnp2EAxUAAAAAHQAAAAAQEw&biw=1519&bih=695#imgrc=96TpVaXN8R9LIM" alt="Image" width="30">
 **`Insight Artisan (Passionate Data Story Crafter)`**
+
 
 I'm a highly motivated and adaptable Information Technology student currently pursuing a Master's Degree in Data Analytics.My strong foundation in data analysis and web development, has equipped me with the skills needed to extract valuable insights from complex datasets and contribute to informed decision-making processes for businesses.  All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
@@ -55,5 +55,5 @@ I'm a highly motivated and adaptable Information Technology student currently pu
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant2901&show_icons=true&locale=en&layout=compact" alt="siddhant2901" /></p>
-<br />
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddhant2901&show_icons=true&locale=en" alt="siddhant2901" /></p>
